@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=LLNode
+comment0.text=\n\ This\ LLNode\ object\ defines\ an\ implementation\ of\ Comparable\ nodes\ for\ a\ linked\ list\n\ \n\ @author\ \ Tom\ Bredemeier\n\ @version\ January\ 31,\ 2013\n
+comment1.params=info
+comment1.target=LLNode(java.lang.Object)
+comment2.params=info
+comment2.target=void\ setInfo(java.lang.Object)
+comment3.params=
+comment3.target=java.lang.Object\ getInfo()
+comment4.params=link
+comment4.target=void\ setLink(LLNode)
+comment5.params=
+comment5.target=LLNode\ getLink()
+numComments=6
